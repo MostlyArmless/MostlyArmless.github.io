@@ -1,0 +1,1140 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"im",
+				"background-image"
+			],
+			[
+				"assert",
+				"assertEquals\tstatement"
+			],
+			[
+				"deskto",
+				"desktopDir\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Mike's Portfolio/bootstrap_template.html",
+			"settings":
+			{
+				"buffer_size": 1180,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Mike's Portfolio/contact.html",
+			"settings":
+			{
+				"buffer_size": 1168,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Mike's Portfolio/hobbies.html",
+			"settings":
+			{
+				"buffer_size": 1201,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Mike's Portfolio/index.html",
+			"settings":
+			{
+				"buffer_size": 2437,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Mike's Portfolio/jobs.html",
+			"settings":
+			{
+				"buffer_size": 1175,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Mike's Portfolio/styles.css",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 536.0,
+		"last_filter": "prefer",
+		"selected_items":
+		[
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Tooltip Theme"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synt",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"m",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			]
+		],
+		"width": 714.0
+	},
+	"console":
+	{
+		"height": 541.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mike/Desktop/Webdev Projects/Mike's Portfolio/styles.css",
+		"/C/Users/Mike/Desktop/Webdev Projects/Mike's Portfolio/bootstrap_template.html",
+		"/C/Users/Mike/Desktop/Webdev Projects/Mike's Portfolio/hobbies.html",
+		"/C/Users/Mike/Desktop/Webdev Projects/Mike's Portfolio/contact.html",
+		"/C/Users/Mike/Desktop/Webdev Projects/Mike's Portfolio/jobs.html",
+		"/C/Users/Mike/Desktop/Webdev Projects/Mike's Portfolio/index.html",
+		"/C/Users/Mike/Desktop/Webdev Projects/custom_landing_page/styles.css",
+		"/C/Users/Mike/Desktop/Webdev Projects/custom_landing_page/index.html",
+		"/H/Dropbox/Jobs/Completed applications/CyberCoders - Apr 5 2018/blurb.txt",
+		"/H/Dropbox/Jobs/Completed applications/ZeroKey/Exercise 3/c/c/encoder_test.cpp",
+		"/H/Dropbox/Jobs/Completed applications/ZeroKey/tests.m",
+		"/H/Dropbox/Jobs/Completed applications/ZeroKey/testfile.txt",
+		"/C/Users/Mike/Desktop/Webdev Projects/custom_landing_page/river_boats_dock_hdr_25460_3840x2160.jpg",
+		"/C/Users/Mike/Desktop/Webdev Projects/styles.css",
+		"/C/Users/Mike/Desktop/Webdev Projects/index.html",
+		"/C/Users/Mike/Downloads/styles.css",
+		"/C/Users/Mike/Downloads/picture-links.txt",
+		"/H/Dropbox/perl/perltut1.pl",
+		"/C/Users/Mike/AppData/Local/Temp/7zO4F28B814/LICENSE.txt",
+		"/C/Users/Mike/AppData/Local/Temp/7zO4F21E813/README.rst",
+		"/C/Users/Mike/Downloads/rootkey.csv",
+		"/C/Strawberry/README.txt",
+		"/H/Dropbox/Writing/Life Planning/LifePlanning.sublime-project",
+		"/E/Dropbox/CODING/Python/Corey Schafer Tutorials/Unit Testing/test_calc.py",
+		"/E/Program Files (x86)/FTL/settings.ini",
+		"/C/Users/Mike/Desktop/Random thoughts.txt",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/E/Dropbox/CODING/Python/Corey Schafer Tutorials/Unit Testing/calc.py",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/DPS.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/utility/append_pdfs/append_pdfs.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/classes/@NeuroCatch/verifyraweeg.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/classes/@NeuroCatch/NeuroCatch.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/classes/@NeuroCatch/importeeg.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/classes/@DasMetadata/DasMetadata.m",
+		"/C/Users/Mike/Desktop/Package/task.txt",
+		"/C/Users/Mike/Desktop/Package/JaneHorton/task1/source-code/overview.txt",
+		"/C/Users/Mike/Desktop/Package/JaneHorton/task1/result.txt",
+		"/C/Users/Mike/Desktop/Package/JaneHorton/task2/source-code/cvi2/BitmapImage.cpp",
+		"/C/Users/Mike/Desktop/Package/task1/result.txt",
+		"/C/Users/Mike/Desktop/Package/sample1.bin",
+		"/C/Users/Mike/Desktop/Package/sample1.asm",
+		"/C/Users/Mike/Desktop/Package/sample2.bin",
+		"/C/Users/Mike/Desktop/Package/sample2.asm",
+		"/C/Users/Mike/Desktop/Package/sample3.bin",
+		"/C/Users/Mike/Desktop/Package/sample3.asm",
+		"/C/Users/Mike/Desktop/Package/JaneHorton/task1/overview.txt",
+		"/C/Users/Mike/Desktop/Package/JaneHorton/task2/overview.txt",
+		"/C/Users/Mike/Desktop/Package/JaneHorton/task1/source-code/cvi/cvi.cpp",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/TESTS/Unit Tests/TEST_dataVerification.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/classes/@DasMetadata/verifyMetadataFields.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/classes/@NeuroCatch/gettrigger.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/classes/@ConfigOptions/ConfigOptions.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/functions/loadT2A.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/TESTS/TEST_NeuroCatch_manual.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/TESTS/TEST_NeuroCatch.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/TESTS/Unit Tests/TEST_verifyraweeg.m",
+		"/C/Users/Mike/AppData/Local/NeuroCatch DPS/Calibration/cal.txt",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/utility/PrintTable/PrintTable.m",
+		"/C/Users/Mike/Desktop/life improvement.txt",
+		"/K/Lungpacer/TestRail/BDA Test planning.txt",
+		"/E/Users/Mike/Downloads/mike_s desires.txt",
+		"/C/Program Files/Sublime Text 3/Packages/User/SublimeREPL/config/Python/Main.sublime-menu",
+		"/K/HTC Database/Conquer Acquisition/ST2017GP_1_07032017_1613.bin",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/utility/copymatchingfiles.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/encryption/createKeyfile.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/DPSfig.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/RUN_pipeline.m",
+		"/E/Dropbox/Music/Charts/Avenged Sevenfold - Sidewinder.txt",
+		"/E/Dropbox/Music/Lyrics/Mike Thiem - Conditional Lovin.txt",
+		"/E/Dropbox/Jobs/Interview Prep/Health Tech Connex -Aug 19 2016/Health Tech Connex Questions & Notes.txt",
+		"/C/Users/Mike/Desktop/Random thoughts",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/TESTS/TEST_RUN_pipeline.m",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/DEVELOPER NOTES.md",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/analysis/Manual Peak Picking/manualerphighlighter.m",
+		"/K/HTC Database/DEMO/logtxt/20170601_T095805_log.txt",
+		"/K/HTC Database/DEMO/logtxt/20170601_T105208_log.txt",
+		"/C/Users/Mike/Documents/SignalProcessingPipeline/utility/getzipcontents.m",
+		"/C/Users/Mike/AppData/Local/Temp/7zOC557C98B/readme.txt",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/Text Analysis/text files/mike story.txt",
+		"/C/Users/Mike/Documents/MATLAB/startup.m",
+		"/H/readme.txt",
+		"/K/MATLAB/listMatchingFiles.m",
+		"/E/Dropbox/Jamming/Covers/sum 41 - in too deep",
+		"/K/MATLAB/ENSC 477/Assignment 4/ENSC477_ass4_ch11_pr3.m",
+		"/C/Users/Mike/Documents/Criterion Games/Need For Speed(TM) Most Wanted/config.NFS13Save",
+		"/E/Dropbox/Powertabs/Racer X - Viking Kong (STANDARD TUNING).ptb",
+		"/C/Users/Mike/Downloads/Thirteenth_chord_collapsed.mid",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/taskkill.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/Rsquare.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/rmse.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/saveallfigs.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/saveAllFigs.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/range.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/round2.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/sampleNetlist_out",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/trimnans.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/timediff.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/publishdepfun.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/powertabfilerenamer.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/tight_subplot.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/struct2ws_mike.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/publish_all_example.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/renamefile.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/renameFile.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/nearvals.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/numfigs.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/pinFigure.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/utility/depfun2zip.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/utility/mydepfun.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/mydepfun.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/loadStructFileSaveVariableFile.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/maximize.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/linkallaxes.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/exportToZip.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/isdrive.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/license.txt",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/hex2text.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/hex2sCompToDec.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/functiontemplate.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/cellstrdiff.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/clearexcept.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/cycleOpenFigures.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/extrema.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/extrema2.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/fig.m",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/exponentialBestFit.m",
+		"/C/Users/Mike/Dropbox/Jamming/Covers/Atma Anur - Key to Paradise - DRUMS.txt",
+		"/C/Users/Mike/Documents/gitlab/MatlabPersonal/caseconvert.m"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 203.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"assert"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Mike's Portfolio/bootstrap_template.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Mike's Portfolio/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Mike's Portfolio/hobbies.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Mike's Portfolio/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Mike's Portfolio/jobs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1167,
+								1167
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1162,
+										1166
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										475,
+										479
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "Mike's Portfolio/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										55,
+										56
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										38,
+										39
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 58.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 180.0
+	},
+	"output.exec":
+	{
+		"height": 480.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "mike_portfolio_website.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"verify",
+				"classes\\@DasMetadata\\verifyMetadataFields.m"
+			],
+			[
+				"dasme",
+				"classes\\@DasMetadata\\DasMetadata.m"
+			],
+			[
+				"importee",
+				"classes\\@NeuroCatch\\importeeg.m"
+			],
+			[
+				"neuroc",
+				"classes\\@NeuroCatch\\NeuroCatch.m"
+			],
+			[
+				"config",
+				"classes\\@ConfigOptions\\ConfigOptions.m"
+			],
+			[
+				"verifyraw",
+				"classes\\@NeuroCatch\\verifyraweeg.m"
+			],
+			[
+				"test_ne",
+				"TESTS\\TEST_NeuroCatch.m"
+			],
+			[
+				"dps",
+				"DPS.m"
+			],
+			[
+				"printtab",
+				"utility\\PrintTable\\PrintTable.m"
+			],
+			[
+				"pdf",
+				"utility\\append_pdfs\\append_pdfs.m"
+			],
+			[
+				"neuro",
+				"classes\\@NeuroCatch\\NeuroCatch.m"
+			],
+			[
+				"run_neur",
+				"RUN_NeuroCatch.m"
+			],
+			[
+				"test",
+				"TESTS\\TEST_RUN_pipeline.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Mike\\Documents\\SignalProcessingPipeline\\SPP.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 421.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
