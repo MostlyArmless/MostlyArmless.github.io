@@ -1,0 +1,16 @@
+.flex-grid {
+	display: flex;
+	margin: 10px;
+}
+	
+.col {
+	flex: 1;
+	justify-content: center;
+	background: blue;
+	
+}
+
+img {
+	width: 60px;
+	height: 80px;
+}

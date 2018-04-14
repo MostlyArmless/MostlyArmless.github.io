@@ -1,0 +1,23 @@
+{
+	"name": "mostlyarmless.github.io",
+	"version": "1.0.0",
+	"description": "Mike's Portfolio Website",
+	"main": "ghost_game.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "broswerify ghost_game.js > ghostGame_bundle.js && live-server"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MostlyArmless/MostlyArmless.github.io.git"
+	},
+	"author": "Mike Thiem",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MostlyArmless/MostlyArmless.github.io/issues"
+	},
+	"homepage": "https://github.com/MostlyArmless/MostlyArmless.github.io#readme",
+	"dependencies": {
+		"lodash": "^4.17.5"
+	}	
+}
